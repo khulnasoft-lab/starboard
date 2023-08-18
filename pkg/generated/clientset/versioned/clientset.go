@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	khulnasoft-labv1alpha1 "github.com/khulnasoft-lab/starboard/pkg/generated/clientset/versioned/typed/khulnasoft-lab/v1alpha1"
+	khulnasoft-labv1alpha1 "github.com/khulnasoft-lab/starboard/pkg/generated/clientset/versioned/typed/khulnasoft/v1alpha1"
 	discovery "k8s.io/client-go/discovery"
 	rest "k8s.io/client-go/rest"
 	flowcontrol "k8s.io/client-go/util/flowcontrol"
