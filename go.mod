@@ -5,7 +5,7 @@ go 1.19
 replace golang.org/x/text => golang.org/x/text v0.3.8
 
 require (
-	github.com/caarlos0/env/v6 v6.10.0
+	github.com/caarlos0/env/v6 v6.10.1
 	github.com/davecgh/go-spew v1.1.1
 	github.com/emirpasic/gods v1.18.1
 	github.com/go-logr/logr v1.2.3
