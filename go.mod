@@ -4,7 +4,7 @@ go 1.21
 
 toolchain go1.21.5
 
-replace golang.org/x/text => golang.org/x/text v0.3.8
+replace golang.org/x/text => golang.org/x/text v0.14.0
 
 require (
 	github.com/caarlos0/env/v6 v6.10.1
